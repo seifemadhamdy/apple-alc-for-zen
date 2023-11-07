@@ -10100,13 +10100,13 @@
 					<key>CodecID</key>
 					<integer>283902550</integer>
 					<key>ConfigData</key>
-					<data>ASccAAEnHQABJx4QAScfQAIXHBACFx0QAhceIQIXHwICFwwCAeccIAHnHREB5x5FAecfAQHXHCkB1x3AAdceRAHXH0ABlxwwAZcdEAGXHqABlx+SAbccQAG3HRABtx4RAbcfAQG3DAI=</data>
+					<data>AZccMAGXHRABlx6gAZcfkgIXHBACFx0QAhceIQIXHwICFwwCAbccQAG3HRABtx4RAbcfAQG3DAIB5xwgAecdEQHnHkUB5x8BAUcc8AFHHREBRx4RAUcfQQFHDAI=</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>68</integer>
 					<key>WakeConfigData</key>
-					<data>AhcMAgG3DAI=</data>
+					<data>AhcMAgG3DAIBRwwC</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
@@ -10247,6 +10247,24 @@
 					<integer>138</integer>
 					<key>WakeConfigData</key>
 					<data>AUcMAgFXDAI=</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>IDT 92HD81B1X5 by SkyrilHD for HP Elitebook 8x70 series</string>
+					<key>CodecID</key>
+					<integer>287143429</integer>
+					<key>ConfigData</key>
+					<data>AKccMACnHRAApx4BAKcfIQCnDAIAtxwhALcdEAC3HiEAtx8EALcMAgDHHBEAxx0QAMceoQDHHwQAxwwCANccIADXHQEA1x4TANcfmQDXDAIA5xzwAOcdAADnHvAA5x9AAOcMAgD3HBAA9x0QAPcegQD3HyEA9wwCARccAAEXHQEBFx6jARcfmQ==</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>76</integer>
+					<key>WakeConfigData</key>
+					<data>AKcMAgC3DAIAxwwCANcMAgDnDAIA9wwC</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
